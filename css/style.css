@@ -1,0 +1,25 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body{
+  background-color: #000 !important;
+}
+.th{
+  background-color: #0d6efd !important;
+}
+a{
+  text-decoration: none !important;
+}
+svg.bi{
+  color: blue !important;
+}
+.fa-instagram-square:before, .fa-telegram:before, .fa-facebook:before{
+font-size: 25px;
+color: #fff !important;
+}
+.fa-apple:before{
+  font-size: 40px;
+  color: #fff;
+}
